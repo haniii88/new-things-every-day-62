@@ -1,4 +1,4 @@
-/* New Things Every Day — Day 62 */
+/* New Things Every Day — Da 62 */
 /* Generates a unique daily log entry */
 
 function dailyLog62() {
